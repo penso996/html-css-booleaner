@@ -1,0 +1,12 @@
+.author {
+    color: grey;
+}
+
+.author-name {
+    color: rgba(99,172,202,255);
+}
+
+.date {
+    color: gray;
+    font-size: 10px;
+}
