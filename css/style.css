@@ -48,10 +48,13 @@ header {
     background-color: #b1e6f2;
 }
 
+.tdata {
+    width: 50%;
+}
+
 
 /*footer text*/
 .suggested {
-    font size: 12px;
     color: gray;
     font-weight: bold;
 }
